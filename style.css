@@ -228,7 +228,7 @@ dl {
 .bio-slide {
     margin: 0;
     position: relative;
-    overflow: hidden;
+    overflow: hidden;    
     border: 1px solid var(--border);
     border-radius: 20px;
     background: var(--white);
